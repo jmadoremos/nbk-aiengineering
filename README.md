@@ -1,4 +1,4 @@
-# AI Engineering | Notebook
+# AI Engineering | A Jupyter Notebook
 
 A series of Jupyter- or Azure-compatible notebooks for the class AI Engineering School
 
