@@ -2,7 +2,7 @@
 
 A series of Jupyter- or Azure-compatible notebooks for the class AI Engineering School
 
-    **Edit only in [Azure Notebooks](https://notebooks.azure.com)!!!**
+**Edit only in [Azure Notebooks](https://notebooks.azure.com)!!!**
 
 ## Contents
 
